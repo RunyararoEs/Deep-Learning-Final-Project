@@ -27,7 +27,7 @@ Audio
 datasets
 Audio
 transformers 
-WhisperProcessor
+
 torch
 dataclasses 
 dataclass
