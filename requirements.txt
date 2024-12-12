@@ -6,7 +6,7 @@ evaluate
 functools 
 partial
 transformers 
-Seq2SeqTrainingArguments
+
 transformers
 Seq2SeqTrainer
 pandas
